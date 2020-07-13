@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 > Red Team Researcher of [Beetles Cyber Security Ltd.](https://beetles.io) <br/>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/swarupsro)   [![Twitter Follow](https://img.shields.io/twitter/follow/swarupsro?style=social)](https://www.twitter.com/swarupsro)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/swarupsro)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/swarupsro)   [![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=twitter&logoColor=ffffff)](https://www.twitter.com/swarupsro)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/swarupsro)
 
-https://img.shields.io/twitter/follow/swarupsro?style=social
 
 My name is Rayhan and I'm a full stack web developer, Nodejs wizard. With my 8+ years of freelancing career, I learned a lot of modern webs developing tools and frameworks like Nestjs, Graphql, expressjs, reactjs, vuejs, webpack, grunt, sass, jsx, handlebars etc.
 
