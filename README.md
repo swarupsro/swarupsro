@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > Red Team Researcher of [Beetles Cyber Security Ltd.](https://beetles.io) <br/>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/swarupsro)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/king_rayhan)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/swarupsro)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/swarupsro)   [![Twitter Follow](https://img.shields.io/twitter/follow/swarupsro?style=social)](https://www.twitter.com/swarupsro)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/swarupsro)
 
 https://img.shields.io/twitter/follow/swarupsro?style=social
 
