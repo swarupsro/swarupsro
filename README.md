@@ -29,7 +29,7 @@ Experienced Security Researcher with a demonstrated history of working in the in
 
 ```js
 {
-  "Security" : ["Web", "Network", "Host", "Mobile"],
+  "Security" : ["Web", "Network", "Mobile"],
   "Language"  : ["Python", "C", "C++"],
 }
 ```
