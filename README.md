@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Swarup Saha
 
-> Security Engineer <!--of [MTB](https://www.mutualtrustbank.com/)--> <br/>
+> Security Researcher <!--of [MTB](https://www.mutualtrustbank.com/)--> <br/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/swarupsro)   [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=twitter&logoColor=ffffff)](https://www.twitter.com/swarupsro)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=facebook&logoColor=ffffff)](https://www.facebook.com/swarupsro)
 
