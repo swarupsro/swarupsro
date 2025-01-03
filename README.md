@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/swarupsro)   [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=twitter&logoColor=ffffff)](https://www.twitter.com/swarupsro)   [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=facebook&logoColor=ffffff)](https://www.facebook.com/swarupsro)
 
 
-Experienced Security Researcher with a demonstrated history of working in the information security and services industry. Who spends his time discovering new security strategies and techniques.
+An experienced security researcher with a strong background in the information security and services industry. Passionate about exploring and developing new security strategies and techniques, constantly striving to enhance knowledge and stay updated with the latest trends in cybersecurity.
 
 
 ### My Expertise
