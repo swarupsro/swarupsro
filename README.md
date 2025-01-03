@@ -29,8 +29,8 @@ An experienced security researcher with a strong background in the information s
 
 ```js
 {
-  "Security" : ["Web", "Network", "Mobile"],
-  "Language"  : ["Python", "C", "C++"],
+  "Security" : ["Web", "API", "Mobile", "Network"],
+  "Language"  : ["Python", "C++", "Bash"],
 }
 ```
 
